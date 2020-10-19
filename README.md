@@ -4,5 +4,5 @@ The dataset comes from the famous MNIST with the only difference that we have th
 So we have to find a way to extract images!
 
 ## Better ways to improve:
-* Insert a big model from Transfer Learning
+* Insert an even bigger and better model with Transfer Learning
 * Train it on Google Colab with GPU and many epochs
