@@ -13,5 +13,5 @@ So we have to find a way to extract images!
 
 - 0.98414
 - 0.98892
-- ### 0.98932
+- **0.98932**
 - 0.98817
