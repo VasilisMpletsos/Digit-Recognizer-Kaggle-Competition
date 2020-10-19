@@ -6,8 +6,8 @@ So we have to find a way to extract images!
 
 ## Better ways to improve:
 
-- Insert an even bigger and better model with Transfer Learning
-- Train it on Google Colab with GPU and many epochs
+- [ ] Insert an even bigger and better model with Transfer Learning?
+- [ ] Use ImageDataGenerator!
 
 # Scores:
 
