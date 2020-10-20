@@ -11,10 +11,19 @@ So we have to find a way to extract images!
 
 ## Scores:
 
-1. **0.98932**
-2. 0.98892
-3. 0.98817
-4. 0.98414
+1. **0.99321**
+2. 0.98932
+3. 0.98892
+4. 0.98817
+5. 0.98414
+
+## Predictions
+
+![Alt text](./assets/image1.png?raw=true)
+
+![Alt text](./assets/image2.png?raw=true)
+
+![Alt text](./assets/image3.png?raw=true)
 
 ## Do not cheat!
 
