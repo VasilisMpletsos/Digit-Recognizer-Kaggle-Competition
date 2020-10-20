@@ -29,4 +29,5 @@ So we have to find a way to extract images!
 
 ## Do not cheat!
 
-There is known ways to cheat in Kaggle Competitions where you fill test_csv with train_csv data and so you know the answer! **Don't do that you ruin the concept**
+There is known ways to cheat in Kaggle Competitions
+**DΟΝΤ DO THAT YOU RUIN ALL THE FUN**
