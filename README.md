@@ -7,15 +7,15 @@ So we have to find a way to extract images!
 ## Better ways to improve:
 
 - [ ] Insert an even bigger and better model with Transfer Learning?
-- [ ] Use ImageDataGenerator!
 
 ## Scores:
 
-1. **0.99321**
-2. 0.98932
-3. 0.98892
-4. 0.98817
-5. 0.98414
+1. **0.99450**
+2. 0.99321
+3. 0.98932
+4. 0.98892
+5. 0.98817
+6. 0.98414
 
 ## Predictions
 
