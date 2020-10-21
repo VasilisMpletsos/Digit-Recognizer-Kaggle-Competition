@@ -27,8 +27,6 @@ So we have to find a way to extract images!
 
 ![Alt text](./assets/image3.png?raw=true)
 
-![Alt text](./assets/train.jpg?raw=true)
-
 ## Do not cheat!
 
 There is known ways to cheat in Kaggle Competitions
